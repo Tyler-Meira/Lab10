@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+       <name>Steak</name>
+       <price>15.99</price>
+       <quantity>5</quantity>
+    </item>
+    <item>
+        <name>Blueberrys</name>
+        <price>1.99</price>
+        <quantity>7</quantity>
+    </item>
+    <item>
+        <name>Kiwi</name>
+        <price>4.99</price>
+        <quantity>3</quantity>
+    </item>
+</items>
