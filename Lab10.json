@@ -1,18 +1,6 @@
-[
-       {
+     {
           "name":"AAA Sirlone",
           "price":"23.50",
           "quantity":"2"
-       },
-       {
-          "name":"Oranges",
-          "price":"3.25",
-          "quantity":"5"
-       },
-       {
-          "name":"Apples",
-          "price":"2.99",
-          "quantity":"6"
-       }
-]
+     }
  
